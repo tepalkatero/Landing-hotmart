@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Transforma tu Salud Ahora</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f1f1f1;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+    .container {
+      max-width: 600px;
+      margin: 100px auto;
+      background: #fff;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 0 15px rgba(0,0,0,0.1);
+    }
+    h1 {
+      color: #333;
+    }
+    p {
+      color: #666;
+      font-size: 18px;
+    }
+    a.boton {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 15px 30px;
+      background: #00b894;
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+      font-weight: bold;
+    }
+    a.boton:hover {
+      background: #019875;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>¡Mejora tu Salud Desde Hoy!</h1>
+    <p>Descubre el mejor programa para transformar tu bienestar. Ya ayudó a miles, ahora es tu turno.</p>
+    <a class="boton" href="https://go.hotmart.com/T99177279G" target="_blank">¡Quiero empezar ahora!</a>
+  </div>
+</body>
+</html>
